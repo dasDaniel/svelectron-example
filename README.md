@@ -1,9 +1,13 @@
-Example for using svelte with rollup and electron
+# Example for using svelte with rollup and electron
 
-build svelte app:
+## Get the dependencies
+
+`npm install`
+
+## build the app
 
 `npm run build`
 
-run electron
+## run electron
 
 `npm start`
